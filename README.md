@@ -76,7 +76,7 @@ Available in GitHub [discussions](https://github.com/netmanthan/shopperpro/discu
 
 ### How To Use:
 
-[POS Awesome Wiki](https://github.com/netmanthan/shopperpro/wiki)
+[Shopper Pro Wiki](https://github.com/netmanthan/shopperpro/wiki)
 
 ---
 
@@ -112,4 +112,4 @@ Will using for this the same guidelines from Erpnext
 
 GNU/General Public License (see [license.txt](https://github.com/netmanthan/shopperpro/blob/master/license.txt))
 
-The POS Awesome code is licensed as GNU General Public License (v3)
+The Shopper Pro code is licensed as GNU General Public License (v3)

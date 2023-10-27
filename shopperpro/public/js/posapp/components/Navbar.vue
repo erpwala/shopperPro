@@ -7,7 +7,7 @@
       ></v-app-bar-nav-icon>
       <v-img
         src="/assets/shopperpro/js/posapp/components/pos/pos.png"
-        alt="POS Awesome"
+        alt="Shopper Pro"
         max-width="32"
         class="mr-2"
         color="primary"
@@ -157,7 +157,7 @@ export default {
       snack: false,
       snackColor: '',
       snackText: '',
-      company: 'POS Awesome',
+      company: 'Shopper Pro',
       company_img: '/assets/erpnext/images/erpnext-logo.svg',
       pos_profile: '',
       freeze: false,
@@ -243,7 +243,7 @@ export default {
         this.pos_profile = data.pos_profile;
         const payments = { text: 'Payments', icon: 'mdi-cash-register' };
         if (
-          this.pos_profile.posa_use_pos_awesome_payments &&
+          this.pos_profile.posa_use_shopperpro_payments &&
           this.items.length !== 2
         ) {
           this.items.push(payments);

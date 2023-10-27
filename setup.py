@@ -10,7 +10,7 @@ from shopperpro import __version__ as version
 setup(
     name="shopperpro",
     version=version,
-    description="POS Awesome",
+    description="Shopper Pro",
     author="Yousef Restom",
     author_email="youssef@sparrownova.com",
     packages=find_packages(),
